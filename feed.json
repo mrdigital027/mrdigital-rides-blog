@@ -1,0 +1,80 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "MrDigital Rides",
+	"icon": "https://micro.blog/MrDigital/avatar.jpg",
+	"home_page_url": "https://www.mrdigitalrides.com/",
+	"feed_url": "https://www.mrdigitalrides.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://mrdigitalrides.micro.blog/2026/05/04/finally-got-my-side-panniers.html",
+				
+				"content_html": "<p>Finally got my side panniers!  I&rsquo;m ready for some road trips now, sure beats a non-securable tail bag.\n#nt1100 #honda</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Finally got my side panniers!  I'm ready for some road trips now, sure beats a non-securable tail bag.\n#nt1100 #honda\n\n<img src=\"uploads/2026/img-7336.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/img-7337.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/img-7338.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-05-04T16:04:04-07:00",
+				"url": "https://www.mrdigitalrides.com/2026/05/04/finally-got-my-side-panniers.html",
+				"tags": ["nt1100"]
+			},
+			{
+				"id": "http://mrdigitalrides.micro.blog/2026/04/05/went-out-for-a-bit.html",
+				
+				"content_html": "<p>Went out for a bit of a ride yesterday.  Loving the new ride.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Went out for a bit of a ride yesterday.  Loving the new ride.\n\n<img src=\"uploads/2026/img-7261.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/img-7263.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/img-7264.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/img-7265.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/img-7267.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/img-7268.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-04-05T09:48:32-07:00",
+				"url": "https://www.mrdigitalrides.com/2026/04/05/went-out-for-a-bit.html",
+				"tags": ["trips","nt1100"]
+			},
+			{
+				"id": "http://mrdigitalrides.micro.blog/2026/03/28/got-a-new-ride-traded.html",
+				
+				"content_html": "<p>Got a new ride!\nTraded in my 2022 BMW C400GT and got myself a new Honda NT1100.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Got a new ride!\nTraded in my 2022 BMW C400GT and got myself a new Honda NT1100.\n\n<img src=\"uploads/2026/img-7240.jpg\"><img src=\"uploads/2026/img-7241.jpg\"><img src=\"uploads/2026/img-7242.jpg\">\n",
+				"date_published": "2026-03-28T17:33:00-07:00",
+				"url": "https://www.mrdigitalrides.com/2026/03/28/got-a-new-ride-traded.html"
+			},
+			{
+				"id": "http://mrdigitalrides.micro.blog/2026/03/02/posting-some-more-photos-from.html",
+				
+				"content_html": "<p>Posting some more photos from my Petrified Forest trip yesterday.  Enjoy.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Posting some more photos from my Petrified Forest trip yesterday.  Enjoy.\n\n<img src=\"uploads/2026/69a50999c62cf6e6c155ce57.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2026/69a50d299499ffd6bc22410f.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2026/69a50e3d6baf9cf9ce9f39e4.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2026/69a50e7a51db8486bbdf3897.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2026/69a508f89499ffd6bc22386f.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2026/69a509fcc85817abbc341160.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2026/69a5d6e1c62cf6e6c1570851.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2026/69a5d66dadc066f9b3821bc6.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2026/69a5d77d8439686a319a346e.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2026/69a5d80bfc156172bb238845.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2026/69a5d87ec2cd7bba75bed01d.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2026/69a5d683ad639e1ca19a4d6b.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2026/69a5d3439499ffd6bc238269.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2026/69a5d7329499ffd6bc2389f7.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2026/69a5d508527774fc81bebc2f.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2026/69a5d6368439686a319a3219.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2026/69a50d3e51db8486bbdf3645.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-03-02T12:29:26-07:00",
+				"url": "https://www.mrdigitalrides.com/2026/03/02/posting-some-more-photos-from.html",
+				"tags": ["trips","c400gt"]
+			},
+			{
+				"id": "http://mrdigitalrides.micro.blog/2026/02/28/great-ride-today-around-and.html",
+				
+				"content_html": "<p>Great ride today around and through Petrified National Park with a friend.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Great ride today around and through Petrified National Park with a friend. \n\n<img src=\"uploads/2026/cfb96ac91c.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/d220c930ce.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/771062e9fb.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/d4fb64b8a4.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/b230ad119e.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/d32a0eb953.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/022c522a2a.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/81f6c9c9ef.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/e9d9e6198d.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/3421d8de3c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-02-28T19:09:29-07:00",
+				"url": "https://www.mrdigitalrides.com/2026/02/28/great-ride-today-around-and.html",
+				"tags": ["trips","c400gt"]
+			},
+			{
+				"id": "http://mrdigitalrides.micro.blog/2026/02/27/how-its-going.html",
+				"title": "How It's Going...",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/300722/2026/127bf05382.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/300722/2026/img-5600.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/300722/2026/img-5764.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/300722/2026/img-5811.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/300722/2026/img-5814.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/300722/2026/img-5819.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/300722/2026/img-5919.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-02-27T22:06:03-07:00",
+				"url": "https://www.mrdigitalrides.com/2026/02/27/how-its-going.html",
+				"tags": ["trips","photo-moments"]
+			},
+			{
+				"id": "http://mrdigitalrides.micro.blog/2026/02/27/how-it-started.html",
+				"title": "How it started",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/300722/2026/img-4854.jpg\"><img src=\"https://cdn.uploads.micro.blog/300722/2026/img-4856.jpg\"><img src=\"https://cdn.uploads.micro.blog/300722/2026/img-4857.jpg\"><img src=\"https://cdn.uploads.micro.blog/300722/2026/img-4859.jpg\">\n",
+				"date_published": "2026-02-27T20:56:28-07:00",
+				"url": "https://www.mrdigitalrides.com/2026/02/27/how-it-started.html"
+			},
+			{
+				"id": "http://mrdigitalrides.micro.blog/2026/02/27/150957.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"https://mrdigitalrides.micro.blog/uploads/2026/img-0050.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-02-27T15:09:57-07:00",
+				"url": "https://www.mrdigitalrides.com/2026/02/27/150957.html",
+				"tags": ["photo-moments"]
+			}
+	]
+}
