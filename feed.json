@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://mrdigitalrides.micro.blog/2026/05/23/went-for-a-short-ride.html",
+				
+				"content_html": "<p>Went for a short ride up near our local ski area, took a quick break and noticed some elk hanging out in the background.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Went for a short ride up near our local ski area, took a quick break and noticed some elk hanging out in the background.\n\n<img src=\"uploads/2026/img-7472.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/img-7473.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/img-7474.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/img-7475.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-05-23T09:20:43-07:00",
+				"url": "https://www.mrdigitalrides.com/2026/05/23/went-for-a-short-ride.html",
+				"tags": ["photo-moments","nt1100","motorcycle"]
+			},
+			{
+				"id": "http://mrdigitalrides.micro.blog/2026/05/19/ive-made-an-addition-to.html",
+				
+				"content_html": "<p>I&rsquo;ve made an addition to my bike collection.  Is this what a mid-life crisis feels like?  :)</p>\n<p>I present my Kawasaki Vulcan 900 Custom</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I've made an addition to my bike collection.  Is this what a mid-life crisis feels like?  :)\n\nI present my Kawasaki Vulcan 900 Custom\n\n\n<img src=\"uploads/2026/fbf88a50df.jpg\" width=\"600\" height=\"548\" alt=\"\"><img src=\"uploads/2026/45644e2d71.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-05-19T12:57:23-07:00",
+				"url": "https://www.mrdigitalrides.com/2026/05/19/ive-made-an-addition-to.html",
+				"tags": ["photo-moments"]
+			},
+			{
 				"id": "http://mrdigitalrides.micro.blog/2026/05/10/well-damn-kind-of-grounded.html",
 				
 				"content_html": "<p>Well damn, kind of &ldquo;grounded&rdquo; for bike rides temporarily.  Found a weird crack on my low mile new tire on the new bike.  Going to call dealer Monday to see about warranty replacement.\n#nt1100 #motorcycle</p>\n",
@@ -46,7 +64,7 @@
 				"id": "http://mrdigitalrides.micro.blog/2026/04/05/went-out-for-a-bit.html",
 				
 				"content_html": "<p>Went out for a bit of a ride yesterday.  Loving the new ride.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Went out for a bit of a ride yesterday.  Loving the new ride.\n\n<img src=\"uploads/2026/img-7261.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/img-7263.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/img-7264.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/img-7265.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/img-7267.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/img-7268.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Went out for a bit of a ride yesterday.  Loving the new ride.\n\n<img src=\"https://cdn.uploads.micro.blog/300722/2026/img-7261.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/300722/2026/img-7263.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/300722/2026/img-7264.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/300722/2026/img-7265.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/300722/2026/img-7267.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/300722/2026/img-7268.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-04-05T09:48:32-07:00",
 				"url": "https://www.mrdigitalrides.com/2026/04/05/went-out-for-a-bit.html",
 				"tags": ["trips","nt1100"]
@@ -55,7 +73,7 @@
 				"id": "http://mrdigitalrides.micro.blog/2026/03/28/got-a-new-ride-traded.html",
 				
 				"content_html": "<p>Got a new ride!\nTraded in my 2022 BMW C400GT and got myself a new Honda NT1100.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Got a new ride!\nTraded in my 2022 BMW C400GT and got myself a new Honda NT1100.\n\n<img src=\"uploads/2026/img-7240.jpg\"><img src=\"uploads/2026/img-7241.jpg\"><img src=\"uploads/2026/img-7242.jpg\">\n",
+				"content_text": "Got a new ride!\nTraded in my 2022 BMW C400GT and got myself a new Honda NT1100.\n\n<img src=\"https://cdn.uploads.micro.blog/300722/2026/img-7240.jpg\"><img src=\"https://cdn.uploads.micro.blog/300722/2026/img-7241.jpg\"><img src=\"https://cdn.uploads.micro.blog/300722/2026/img-7242.jpg\">\n",
 				"date_published": "2026-03-28T17:33:00-07:00",
 				"url": "https://www.mrdigitalrides.com/2026/03/28/got-a-new-ride-traded.html"
 			},
